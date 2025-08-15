@@ -38,6 +38,7 @@
 
 
 ###  Ответ: 
+
 ![alt text](https://github.com/konstanin-zubenko/RedisANDmemcached/blob/main/img/111.png)
 ---
 
@@ -46,3 +47,9 @@
 Запишите в Redis несколько ключей с любыми именами и значениями. 
 
 *Через redis-cli достаньте все записанные ключи и значения из базы, приведите скриншот этой операции.*
+
+
+### Ответ: 
+
+![alt text](https://github.com/konstanin-zubenko/RedisANDmemcached/blob/main/img/112.png)
+---
